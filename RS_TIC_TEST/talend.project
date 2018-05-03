@@ -138,6 +138,9 @@
       <relatedItems xmi:id="_8rsYHk7NEeiBXJgGzqsH9g" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_8rsYH07NEeiBXJgGzqsH9g" id="GetRandomPhoneNum" version="Latest" type="routine"/>
       <relatedItems xmi:id="_8rsYIE7NEeiBXJgGzqsH9g" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZBFgUE7OEeiBXJgGzqsH9g" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZBFgUU7OEeiBXJgGzqsH9g" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_ZBFgUk7OEeiBXJgGzqsH9g" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_2FCEkE62EeiJeuNaqXdmkQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_2FCEkU62EeiJeuNaqXdmkQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
