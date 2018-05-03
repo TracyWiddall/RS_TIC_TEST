@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_1mMzgU62EeiJeuNaqXdmkQ" label="RS_TIC_TEST" description="Test Talend project to smoke-test GIT, TIC ans Talend Studio for Cloud installation" language="java" technicalLabel="RS_TIC_TEST" author="_1mMzgk62EeiJeuNaqXdmkQ" productVersion="Talend Integration Cloud Hybrid Edition-6.5.1.20180116_1512" url="{&quot;location&quot;:&quot;https://github.com/TracyWiddall/RS_TIC_TEST.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_1mMzgk62EeiJeuNaqXdmkQ" login="traceywiddall@eval8658.talend.com" firstName="Tracey" lastName="Widdall" type="DQ"/>
+</xmi:XMI>
